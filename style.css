@@ -1,0 +1,48 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  background: #990099;
+  padding: 10px;
+  display: flex;
+  border-radius: 5px;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.imagenes img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.parrafos p {
+  margin: 10px 0;
+}
+
+.lista ul {
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
